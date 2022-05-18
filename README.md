@@ -7,5 +7,6 @@
  <li>Fecha: 03/02/2022</li>
  <li>Ciclo: 01/2022</li>
 
-<p>Descripción: Primer programa en C llamado Hola mundo el cual muestra la estructura basica para la materia de programacion estructurada.<br>
+<li>Descripción: Primer programa en C llamado Hola mundo el cual muestra la estructura basica para la materia programacion estructurada.</li>
+ 
   
