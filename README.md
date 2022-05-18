@@ -1,7 +1,11 @@
 # programa1_HolaMundo
-Autor: Franciscomilan
-Escuela: Universidad uvm
-Materia: Programacion estructurada
-Ciclo: 01/2022
+<ul>
+<li>Autor: Franciscomilan</li>
+ <li>Escuela: Universidad uvm</li>
+ <li>Profesor: Armando Cruz</li>
+ <li>Materia: Programacion estructurada</li>
+ <li>Fecha: 03/02/2022</li>
+ <li>Ciclo: 01/2022</li>
 
-Descripción: Programa que muestra la estructura básica de un programa en C con el ejercicio hola mundo para la materia de programación estructurada.
+<p>Descripción: Primer programa en C llamado Hola mundo el cual muestra la estructura basica para la materia de programacion estructurada.<br>
+  
