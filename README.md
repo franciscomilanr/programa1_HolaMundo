@@ -10,7 +10,7 @@
  <li> Salida de un mensaje en pantalla </li>
  </ul>
 <br>
- <li><b> Objetivo: </b> Mostar la salida de un mensaje en pantalla </li>
+ <li><b> Objetivo: </b> Mostar la salida de un mensaje en pantalla usando la estructura basica de un programa en C. </li>
 <br>
 <li><b>Breve descripción: </b> Primer programa en C llamado Hola mundo el cual muestra la estructura basica para la materia programacion estructurada.</li>
  
