@@ -1,11 +1,8 @@
 # programa1_HolaMundo
 
-<li><b>Autor: </b> Franciscomilan</li>
- <li><b> Fecha: </b> 03/02/2022</li>
- <li><b>Escuela: </b> Universidad uvm</li>
- <li><b> Profesor: </b> Armando Cruz</li>
- <li><b> Materia: </b> Programacion estructurada</li>
- <li><b>Ciclo: </b> 01/2022</li>
+<b>Autor: </b> Franciscomilan, <b> Fecha: </b> 03/02/2022</li>
+ <li><b>Escuela: </b> Universidad uvm, <b> Profesor: </b> Armando Cruz</li>
+ <b> Materia: </b> Programacion estructurada, <b>Ciclo: </b> 01/2022</li>
 <br>
 <li><b> En este programa se muestra el uso de: </b></li>
 <ul>
